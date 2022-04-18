@@ -18,6 +18,6 @@ We are using 1 ultrasonic sensors which are placed at 1 sides of the cap as show
 
 ### Important Links
 <ol>
-  <li><a href="https://docs.google.com/document/d/1sJJKRmHoYlfxx2PBe-qIO_fIXKhwwT4l/edit?usp=sharing&ouid=104356587363715839705&rtpof=true&sd=true">IEEE Technical Paper</a></li>
+  <li><a href="https://docs.google.com/document/d/1qIDXuXRHmCVTLss8buJlAIb65C2fkzL1/edit?usp=sharing&ouid=116270892755556401444&rtpof=true&sd=true">IEEE Technical Paper</a></li>
 </ol>
 
