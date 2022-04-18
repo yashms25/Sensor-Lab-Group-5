@@ -3,7 +3,7 @@
 ## Topic: Social Distancing Cap
 
 ### Poster
-<img src="https://raw.githubusercontent.com/yashfalke77/Sensor-Lab-Group-2/main/Gas%20-%20Temperature%20Sensor.png" height="500" align="center" alt="project image">
+<img src="https://raw.githubusercontent.com/yashms25/Sensor-Lab-Group-5/main/Social distancing cap.jpg" height="500" align="center" alt="project image">
 
 ### Project Info
 
